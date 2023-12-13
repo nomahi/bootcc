@@ -2,7 +2,7 @@
 
 ## Bootstrap Inference for Logistic Regression in Case-Cohort Studies
 
-The conventional robust variance estimator for logistic regression in case-cohort studies is biased. To provide an unbiased estimate of standard error, the duplications of case and subcohort samples should be adequately accounted. This package provides bootstrap standard error estimates that accounted the duplications appropriately, and the corresponding confidence intervals and Wald-type p-values.
+The conventional robust variance estimator for logistic regression in case-cohort studies is biased. To provide an unbiased estimate of standard error, the duplications of case and subcohort samples should be adequately accounted. This package provides bootstrap standard error estimates that account the duplications appropriately, and the corresponding confidence intervals and Wald-type p-values.
 
 ## Installation
 
